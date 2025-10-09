@@ -20,6 +20,7 @@ The pretrained model files (`.h5`, `.pkl`) are hosted on Kaggle:
 
 ## ⚙️ Configuration
 Configuration files are available in the `config/` folder.
+Refer to the `requirements.txt` file for installation of libraries.
 
 ## 📈 Results
 - Validation Accuracy: 93.18%
@@ -30,3 +31,10 @@ Visual results and confusion matrix are included in the notebook.
 - Python, TensorFlow, Keras, OpenCV
 - Matplotlib, Seaborn
 - Jupyter Notebook
+
+
+
+## 👤 Author
+**Siddhant Bahadkar**  
+MSc Data Analytics, National College of Ireland  
+[LinkedIn](www.linkedin.com/in/siddhant-bahadkar-b258b3195) | [GitHub](https://github.com/siddhantbd123)
