@@ -30,5 +30,3 @@ Visual results and confusion matrix are included in the notebook.
 - Python, TensorFlow, Keras, OpenCV
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
-## 🗂️ Repository Structure
