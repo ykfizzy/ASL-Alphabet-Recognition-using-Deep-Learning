@@ -21,6 +21,7 @@ The pretrained model files (`.h5`, `.pkl`) are hosted on Kaggle:
 ## ⚙️ Configuration
 Configuration files are available in the `config/` folder.
 Refer to the `requirements.txt` file for installation of libraries.
+The indices `.json` files are also available.
 
 ## 📈 Results
 - Validation Accuracy: 93.18%
