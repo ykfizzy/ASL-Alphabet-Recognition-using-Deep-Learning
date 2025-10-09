@@ -37,4 +37,4 @@ Visual results and confusion matrix are included in the notebook.
 ## 👤 Author
 **Siddhant Bahadkar**  
 MSc Data Analytics, National College of Ireland  
-[LinkedIn](www.linkedin.com/in/siddhant-bahadkar-b258b3195) | [GitHub](https://github.com/siddhantbd123)
+[LinkedIn](https://www.linkedin.com/in/siddhant-bahadkar-b258b3195/) | [GitHub](https://github.com/siddhantbd123/)
